@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,FredokaSub,84,&H00FFFFFF,&H00FFFFFF,&H00241018,&H96000000,0,0,0,0,100,100,1,0,1,7,4,2,70,70,430,1
+Style: TV,FredokaSub,70,&H00FFFFFF,&H00FFFFFF,&H00241018,&H96000000,0,1,0,0,100,100,1,0,1,6,4,2,70,70,430,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.25,0:00:01.09,TV,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H00FFE9B8}Breaking news!
+Dialogue: 0,0:00:01.09,0:00:02.40,TV,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H00FFE9B8}All dogs can now speak
+Dialogue: 0,0:00:02.40,0:00:03.02,TV,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H00FFE9B8}English!
+Dialogue: 0,0:00:03.05,0:00:03.93,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}We need to talk about
+Dialogue: 0,0:00:03.93,0:00:04.91,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}your parenting.
+Dialogue: 0,0:00:05.15,0:00:05.46,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H00FFFFFF}Max?!
+Dialogue: 0,0:00:05.46,0:00:06.62,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H00FFFFFF}You can TALK?!
+Dialogue: 0,0:00:06.65,0:00:07.31,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Three years.
+Dialogue: 0,0:00:07.31,0:00:08.30,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Same brown crunchy
+Dialogue: 0,0:00:08.30,0:00:09.12,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}circles. Every.
+Dialogue: 0,0:00:09.12,0:00:10.13,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Single. Day.
+Dialogue: 0,0:00:10.75,0:00:11.92,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H00FFFFFF}It's premium kibble!
+Dialogue: 0,0:00:11.95,0:00:12.62,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}It tastes like
+Dialogue: 0,0:00:12.62,0:00:14.07,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}cardboard's sad cousin.
+Dialogue: 0,0:00:15.25,0:00:15.66,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Also…
+Dialogue: 0,0:00:15.66,0:00:16.92,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}confession time.
+Dialogue: 0,0:00:16.95,0:00:17.93,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}The neighbor's missing
+Dialogue: 0,0:00:17.93,0:00:18.33,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}slippers?
+Dialogue: 0,0:00:18.33,0:00:19.21,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}That was me.
+Dialogue: 0,0:00:19.95,0:00:21.29,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H00FFFFFF}You blamed the CAT!
+Dialogue: 0,0:00:21.85,0:00:23.12,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}The cat had motive.
+Dialogue: 0,0:00:23.75,0:00:24.98,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Forty-seven slippers.
+Dialogue: 0,0:00:24.98,0:00:26.10,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Zero regrets.
+Dialogue: 0,0:00:28.25,0:00:28.48,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Now.
+Dialogue: 0,0:00:28.48,0:00:29.48,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}My demands.
+Dialogue: 0,0:00:29.95,0:00:30.17,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}One:
+Dialogue: 0,0:00:30.17,0:00:31.34,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}my own bedroom.
+Dialogue: 0,0:00:32.05,0:00:32.28,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Two:
+Dialogue: 0,0:00:32.28,0:00:32.74,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}a phone.
+Dialogue: 0,0:00:32.74,0:00:33.95,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Unlimited data.
+Dialogue: 0,0:00:34.65,0:00:34.96,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Three:
+Dialogue: 0,0:00:34.96,0:00:35.79,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}a personal chef.
+Dialogue: 0,0:00:35.79,0:00:36.97,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Something fancy.
+Dialogue: 0,0:00:37.65,0:00:38.59,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H00FFFFFF}A personal chef?!
+Dialogue: 0,0:00:38.59,0:00:40.26,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H00FFFFFF}I can barely afford YOU!
+Dialogue: 0,0:00:42.25,0:00:43.82,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H00FFFFFF}Ugh… fine. Deal.
+Dialogue: 0,0:00:44.25,0:00:44.57,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Great!
+Dialogue: 0,0:00:44.57,0:00:45.17,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}Actually…
+Dialogue: 0,0:00:45.17,0:00:46.11,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}never mind.
+Dialogue: 0,0:00:46.45,0:00:47.59,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}I already have a second
+Dialogue: 0,0:00:47.59,0:00:48.79,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}family next door.
+Dialogue: 0,0:00:49.05,0:00:50.00,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H00FFFFFF}You WHAT?!
+Dialogue: 0,0:00:50.35,0:00:52.42,Main,,0,0,0,,{\fad(40,60)\fscx82\fscy82\t(0,90,\fscx100\fscy100)\1c&H0066D1FF}They do bacon Tuesdays. Byeee!
